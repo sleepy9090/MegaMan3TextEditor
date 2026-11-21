@@ -15,3 +15,22 @@ F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.csproj.GenerateResource.Cache
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.exe
 F:\Users\sleepy\Documents\visual studio 2013\Projects\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.pdb
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.exe.config
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.exe
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\bin\Debug\MegaMan3TextEditor.pdb
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.AboutBox1.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form1.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form2_pg.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form3_wn.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form4_bi.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form5_dl.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form6_e.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form7_c.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form8_rl.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Form9_rc.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.exe
+C:\Users\Administrator\source\repos\MegaMan3TextEditor\MegaMan3TextEditor\obj\Debug\MegaMan3TextEditor.pdb
